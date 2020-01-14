@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="PUBLISH_KEY_PUBNUB">pub-c-e3c84d6a-103c-4b05-b545-97bfeab0459f</string>
+    <string name="SUBSCRIBE_KEY_PUBNUB">sub-c-8ce99d92-36dc-11ea-8078-f6a3bb2caa12</string>
+
+    <string name="app_name">Mbeledos-bengkel</string>
+</resources>
