@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "449447955578",
+    "firebase_url": "https://mbeledos-bengkel.firebaseio.com",
+    "project_id": "mbeledos-bengkel",
+    "storage_bucket": "mbeledos-bengkel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449447955578:android:20626e82d2328c5822bfc3",
+        "android_client_info": {
+          "package_name": "com.example.mbeledos_bengkel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449447955578-r7o43f2nadobqom0o2nnib8i5got0a1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAqwTjxWTTVd7g4GHi3iJsrOz7qSFwyTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449447955578-r7o43f2nadobqom0o2nnib8i5got0a1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
